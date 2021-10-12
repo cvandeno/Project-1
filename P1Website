@@ -1,5 +1,24 @@
 <!doctype>
 <html>
   <head>
-    <title>Shop Top Designer Clothing Brands</title>
+    <title>Boiler Social</title>
   </head>
+ 
+  <body>
+    <header>
+          <a href="#">Boiler Social</a>
+          <input type="text" placeholder="Search..">
+          /* account icon/page
+    </header>
+   
+    <img src="purdue.jpeg" alt="Purdue">
+    <h6> FIND YOUR FUTURE BOILERMAKERS! </h6>
+    <a href="#">Join an Event></a>
+    <a href="#">Create an Event></a>
+    
+
+
+
+
+</body
+</html>
