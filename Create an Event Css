@@ -1,0 +1,39 @@
+<!doctype>
+<html>
+<style>
+
+header {
+  background-color: #white;
+  text-align: center;
+  padding: 20px;
+  margin: 30px;
+}
+
+h1 {
+  color: white;
+}
+
+
+
+      section#buttons a{
+          background-color: #6DB8BB;
+          border: none;
+          color: white;
+          padding: 20px;
+          text-align: center;
+          text-decoration: none;
+          display: inline-block;
+          font-size: 16px;
+          margin: 40px;
+        }
+
+        /* Create an Event */
+    .centered {
+      position: absolute;
+      top: 18.5%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+
+</style>
+</html>
