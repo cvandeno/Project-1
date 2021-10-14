@@ -1,1 +1,72 @@
+<!doctype>
+<html>
+<link rel="stylesheet" href="createanevent.css">
+  <head>
+    <title>Create An Event</title>
+    <link rel="stylesheet" href="createanevent.css">
+  </head>
 
+  <body>
+     <header>
+           <a href="#">Boiler Social</a>
+           <input type="text" placeholder="Search..">
+           /* account icon/page
+     </header>
+
+</body>
+
+
+<h1> Create An Event </h1>
+
+    <div class="container">
+        <img src="purdue cropp.jpg" alt="purdue cropp" style="width:100%;">
+        <div class="centered"><h1>Create an Event<h1></div>
+    </div>
+
+  <img src="studying people.jpg" alt="Studying" width="500" height="400">
+
+ <section id= "form">
+<h3> Event Title </h3>
+    <textarea>
+        type here
+    </textarea>
+
+<h3> Date </h3>
+    <textarea>
+    type here
+    </textarea>
+
+<h3> Time </h3>
+    <textarea>
+      type here
+    </textarea>
+
+<h3> Location </h3>
+    <textarea>
+      type here
+    </textarea>
+
+<h3> Activity Description </h3>
+    <textarea>
+      type here
+    </textarea>
+
+<h3> Filter Tags </h3>
+    <textarea>
+      type here
+    </textarea>
+
+</body>
+
+</section>
+
+
+<section id= "buttons">
+  <a href="#" class="feature">Create an Event</a>
+  <a href="#">Cancel</a>
+</section>
+
+
+</body>
+
+</html>
